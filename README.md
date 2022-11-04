@@ -1,6 +1,12 @@
-# Supplementary Material for Paper #
+# Supplementary Material for MeerTRAP FRB paper II #
 
-This repository contains supplementary material and data for our paper.
+This repository contains supplementary material and data for our paper titled "A sample of Fast Radio Bursts discovered and localised with MeerTRAP at the MeerKAT telescope".
+
+A copy of this repository is available on [Zenodo](https://doi.org/10.5281/zenodo.6047539).
+
+## Paper ##
+
+The corresponding paper is available via this [NASA ADS link](XXX).
 
 ## Author ##
 
