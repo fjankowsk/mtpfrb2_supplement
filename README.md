@@ -1,4 +1,4 @@
-# Supplementary Material for MeerTRAP FRB paper II #
+# Supplementary Material for MeerTRAP FRB Paper II #
 
 This repository contains supplementary material and data for our paper titled "A sample of Fast Radio Bursts discovered and localised with MeerTRAP at the MeerKAT telescope".
 
