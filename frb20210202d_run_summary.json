@@ -1,0 +1,353 @@
+{
+    "beams": {
+        "ca_target_request": {
+            "beams": [], 
+            "tilings": [
+                {
+                    "epoch": 1612269724.35533, 
+                    "nbeams": 768, 
+                    "overlap": 0.25, 
+                    "reference_frequency": 1284000000.0, 
+                    "target": "J1946-5403, radec Pulsars, 19:46:34.49, -54:03:42.5"
+                }
+            ]
+        }, 
+        "cb_antennas": [
+            "m000", 
+            "m001", 
+            "m002", 
+            "m003", 
+            "m004", 
+            "m005", 
+            "m006", 
+            "m007", 
+            "m008", 
+            "m012", 
+            "m013", 
+            "m014", 
+            "m015", 
+            "m016", 
+            "m017", 
+            "m018", 
+            "m019", 
+            "m020", 
+            "m021", 
+            "m026", 
+            "m027", 
+            "m028", 
+            "m029", 
+            "m030", 
+            "m032", 
+            "m034", 
+            "m035", 
+            "m036", 
+            "m037", 
+            "m038", 
+            "m039", 
+            "m040"
+        ], 
+        "coherent_beam_shape": {
+            "angle": -162.2646559128307, 
+            "x": 0.012298903197480655, 
+            "y": 0.009818950475865349
+        }, 
+        "ib_antennas": [
+            "m000", 
+            "m001", 
+            "m002", 
+            "m003", 
+            "m004", 
+            "m005", 
+            "m006", 
+            "m007", 
+            "m008", 
+            "m012", 
+            "m013", 
+            "m014", 
+            "m015", 
+            "m016", 
+            "m017", 
+            "m018", 
+            "m019", 
+            "m020", 
+            "m021", 
+            "m026", 
+            "m027", 
+            "m028", 
+            "m029", 
+            "m030", 
+            "m032", 
+            "m033", 
+            "m034", 
+            "m035", 
+            "m036", 
+            "m037", 
+            "m038", 
+            "m039", 
+            "m040", 
+            "m041", 
+            "m042", 
+            "m044", 
+            "m045", 
+            "m046", 
+            "m047", 
+            "m048", 
+            "m049", 
+            "m050", 
+            "m051", 
+            "m052", 
+            "m053", 
+            "m054", 
+            "m055", 
+            "m056", 
+            "m057", 
+            "m058", 
+            "m059", 
+            "m060", 
+            "m061", 
+            "m062", 
+            "m063"
+        ], 
+        "list": [
+            {
+                "absnum": 336, 
+                "coherent": true, 
+                "dec_dms": "-53:47:44.5", 
+                "mc_ip": "239.11.1.15", 
+                "mc_port": 7147, 
+                "ra_hms": "19:48:58.18", 
+                "relnum": 0, 
+                "source": "J1946-5403"
+            }, 
+            {
+                "absnum": 337, 
+                "coherent": true, 
+                "dec_dms": "-54:13:38.8", 
+                "mc_ip": "239.11.1.15", 
+                "mc_port": 7147, 
+                "ra_hms": "19:46:48.74", 
+                "relnum": 1, 
+                "source": "J1946-5403"
+            }, 
+            {
+                "absnum": 338, 
+                "coherent": true, 
+                "dec_dms": "-54:13:00.5", 
+                "mc_ip": "239.11.1.15", 
+                "mc_port": 7147, 
+                "ra_hms": "19:47:02.34", 
+                "relnum": 2, 
+                "source": "J1946-5403"
+            }, 
+            {
+                "absnum": 339, 
+                "coherent": true, 
+                "dec_dms": "-54:14:17.0", 
+                "mc_ip": "239.11.1.15", 
+                "mc_port": 7147, 
+                "ra_hms": "19:46:35.14", 
+                "relnum": 3, 
+                "source": "J1946-5403"
+            }, 
+            {
+                "absnum": 340, 
+                "coherent": true, 
+                "dec_dms": "-54:12:22.1", 
+                "mc_ip": "239.11.1.15", 
+                "mc_port": 7147, 
+                "ra_hms": "19:47:15.93", 
+                "relnum": 4, 
+                "source": "J1946-5403"
+            }, 
+            {
+                "absnum": 341, 
+                "coherent": true, 
+                "dec_dms": "-54:14:55.1", 
+                "mc_ip": "239.11.1.15", 
+                "mc_port": 7147, 
+                "ra_hms": "19:46:21.53", 
+                "relnum": 5, 
+                "source": "J1946-5403"
+            }, 
+            {
+                "absnum": 342, 
+                "coherent": true, 
+                "dec_dms": "-54:11:43.6", 
+                "mc_ip": "239.11.1.15", 
+                "mc_port": 7147, 
+                "ra_hms": "19:47:29.51", 
+                "relnum": 6, 
+                "source": "J1946-5403"
+            }, 
+            {
+                "absnum": 343, 
+                "coherent": true, 
+                "dec_dms": "-54:15:33.1", 
+                "mc_ip": "239.11.1.15", 
+                "mc_port": 7147, 
+                "ra_hms": "19:46:07.91", 
+                "relnum": 7, 
+                "source": "J1946-5403"
+            }, 
+            {
+                "absnum": 344, 
+                "coherent": true, 
+                "dec_dms": "-54:11:05.1", 
+                "mc_ip": "239.11.1.15", 
+                "mc_port": 7147, 
+                "ra_hms": "19:47:43.09", 
+                "relnum": 8, 
+                "source": "J1946-5403"
+            }, 
+            {
+                "absnum": 345, 
+                "coherent": true, 
+                "dec_dms": "-54:16:11.0", 
+                "mc_ip": "239.11.1.15", 
+                "mc_port": 7147, 
+                "ra_hms": "19:45:54.29", 
+                "relnum": 9, 
+                "source": "J1946-5403"
+            }, 
+            {
+                "absnum": 346, 
+                "coherent": true, 
+                "dec_dms": "-54:10:26.4", 
+                "mc_ip": "239.11.1.15", 
+                "mc_port": 7147, 
+                "ra_hms": "19:47:56.65", 
+                "relnum": 10, 
+                "source": "J1946-5403"
+            }, 
+            {
+                "absnum": 347, 
+                "coherent": true, 
+                "dec_dms": "-54:16:48.9", 
+                "mc_ip": "239.11.1.15", 
+                "mc_port": 7147, 
+                "ra_hms": "19:45:40.66", 
+                "relnum": 11, 
+                "source": "J1946-5403"
+            }
+        ]
+    }, 
+    "data": {
+        "bw": 856000000.0, 
+        "cfreq": 1284000000.0, 
+        "nbeam": 12, 
+        "nbit": 8, 
+        "nchan": 1024, 
+        "npol": 1, 
+        "sample_clock": 1712000000.0, 
+        "sync_time": 1612255301.0, 
+        "tsamp": 0.0003062429906542056
+    }, 
+    "pipeline": {
+        "bpmon": {
+            "enabled": false
+        }, 
+        "chanmask": {
+            "1024C": "", 
+            "4096C": ""
+        }, 
+        "cheetah": {
+            "aggbuffer_timespan": 36.0, 
+            "candidate_window_ms": 500.0, 
+            "ddplan_str": "0:370:0.307,370:740:0.652,740:1480:1.266,1480:2950:2.512,2950:5000:4", 
+            "iqrm": {
+                "active": true, 
+                "edge_channels": 32, 
+                "max_lag": 15, 
+                "nsigma": 3.0
+            }, 
+            "sps": {
+                "pool": {
+                    "cpus": 8, 
+                    "gpus": 2
+                }, 
+                "threshold": 8.0
+            }, 
+            "spscl": {
+                "active": true, 
+                "dm_thresh": 23.5, 
+                "linking_length": 1.0, 
+                "pulse_width_tolerance": 100.0, 
+                "time_tolerance": 100.0
+            }, 
+            "spsift": {
+                "active": true, 
+                "dm_thresh": 20.0, 
+                "maximum_candidates": 50000, 
+                "pulse_width_threshold": 300.0, 
+                "sigma_thresh": 8.0
+            }
+        }, 
+        "container": "pipeline", 
+        "dada": {
+            "ipcrm": true, 
+            "nbuffers": 20, 
+            "timespan": 3.0
+        }, 
+        "dry-run": false, 
+        "filterbank_size": 2147483648, 
+        "image": "tuse.meertrap:7000/full-pipeline:0.1.6", 
+        "mkrecv": {
+            "network_protocol": "udp"
+        }, 
+        "mode": "production", 
+        "scrunching": {
+            "nchans_max": 1024, 
+            "tsamp_min": 0.0003
+        }
+    }, 
+    "sb_details": {
+        "action_time": "2021-02-02 10:15:18.000Z", 
+        "actual_end_time": null, 
+        "actual_start_time": "2021-02-02 10:25:28.000Z", 
+        "antenna_spec": "available", 
+        "antennas_alloc": "m000,m001,m002,m003,m004,m005,m006,m007,m008,m012,m013,m014,m015,m016,m017,m018,m019,m020,m021,m026,m027,m028,m029,m030,m032,m033,m034,m035,m036,m037,m038,m039,m040,m041,m042,m044,m045,m046,m047,m048,m049,m050,m051,m052,m053,m054,m055,m056,m057,m058,m059,m060,m061,m062,m063", 
+        "antennas_dry_run_alloc": "m000,m001,m002,m003,m004,m005,m006,m007,m008,m012,m013,m014,m015,m016,m017,m018,m019,m020,m021,m026,m027,m028,m029,m030,m032,m033,m034,m035,m036,m037,m038,m039,m040,m041,m042,m044,m045,m046,m047,m048,m049,m050,m051,m052,m053,m054,m055,m056,m057,m058,m059,m060,m061,m062,m063", 
+        "capture_block_id": "1612261573", 
+        "config_label": "556703d,47b2e14", 
+        "controlled_resources_alloc": "cbf_1,fbfuse_1,ptuse_4,sdp_1,tuse_1", 
+        "controlled_resources_dry_run_alloc": "cbf_1,fbfuse_1,ptuse_4,sdp_1,tuse_1", 
+        "controlled_resources_spec": "cbf,fbfuse,ptuse_4,sdp,tuse", 
+        "data_quality": null, 
+        "description": "MeerTIME MSP regular  (2021 epoch 3) part 3", 
+        "desired_start_time": "2021-02-02 10:25:00.000Z", 
+        "expected_duration_seconds": 11621, 
+        "horizon": 16.0, 
+        "id": 55167, 
+        "id_code": "20210201-0003", 
+        "instruction_set": "run-obs-script /home/kat/usersnfs/sarah/multi/katusescripts/ptuse/beamform_multi.py --backend=fold --output-tsamp=9.57 --horizon=16", 
+        "last_update": "2021-02-02 10:26:17.000Z", 
+        "lead_operator_priority": null, 
+        "notes": "Created from OPT: 20210116231108", 
+        "obs_readiness": "EXECUTING", 
+        "outcome": "UNKNOWN", 
+        "owner": "Sarah Buchner", 
+        "pb_id": null, 
+        "proposal_id": "SCI-20180516-MB-05", 
+        "queue_position": null, 
+        "sb_lst_window_end": null, 
+        "sb_lst_window_start": null, 
+        "sb_order": null, 
+        "sb_sequence": null, 
+        "sb_user_priority": null, 
+        "sb_utc_window_end": null, 
+        "sb_utc_window_start": null, 
+        "scheduled_time": "2021-02-02 10:15:18.000Z", 
+        "script_profile_config": "{\"content\":\"#Pulsar,duration,search_bool,dm\\nJ1804-2858,1256,0,0.00\\nJ1811-2405,256,0,0.00\\nJ1843-1113,256,0,0.00\\nJ1832-0836,256,0,0.00\\nJ1825-0319,1248,0,0.00\\nJ1918-0642,256,0,0.00\\nJ2010-1323,256,0,0.00\\nJ2039-3616,416,0,0.00\\nJ2124-3358,256,0,0.00\\nJ2241-5236,256,0,0.00\\nJ2236-5527,2208,0,0.00\\nJ2129-5721,256,0,0.00\\nJ1946-5403,256,0,0.00\\nJ1902-5105,256,0,0.00\\nJ1933-6211,288,0,0.00\\nJ1903-7051,256,0,0.00\\nJ1909-3744,256,0,0.00\\nJ2145-0750,256,0,0.00\\nJ2150-0326,256,0,0.00\\nJ2222-0137,256,0,0.00\\nJ2234+0944,256,0,0.00\\nJ2229+2643,328,0,0.00\\nJ2317+1439,280,0,0.00\\nJ0030+0451,256,0,0.00\\nJ0125-2327,256,0,0.00\\nJ2322-2650,512,0,0.00\",\"charset\":\"en_US.utf-8\",\"content-type\":\"text\"}", 
+        "state": "ACTIVE", 
+        "sub_nr": 1, 
+        "targets": "[{\"track_start_offset\":36.90050768852234,\"target\":\"J1804-2858, radec Pulsars, 18:04:01.52, -28:58:46.6\",\"track_duration\":1256},{\"track_start_offset\":1299.0494377613068,\"target\":\"J1811-2405, radec Pulsars, 18:11:19.85, -24:05:18.4\",\"track_duration\":256},{\"track_start_offset\":1569.0082111358643,\"target\":\"J1843-1113, radec Pulsars, 18:43:41.26, -11:13:31.1\",\"track_duration\":256},{\"track_start_offset\":1830.7956433296204,\"target\":\"J1832-0836, radec Pulsars, 18:32:27.59, -8:36:55.0\",\"track_duration\":256},{\"track_start_offset\":2093.331203222275,\"target\":\"J1825-0319, radec Pulsars, 18:25:55.95, -3:19:57.6\",\"track_duration\":1248},{\"track_start_offset\":3355.659568309784,\"target\":\"J1918-0642, radec Pulsars, 19:18:48.03, -6:42:34.9\",\"track_duration\":256},{\"track_start_offset\":3627.6040482521057,\"target\":\"J2010-1323, radec Pulsars, 20:10:45.92, -13:23:56.1\",\"track_duration\":256},{\"track_start_offset\":3915.2129456996918,\"target\":\"J2039-3616, radec Pulsars, 20:39:16.58, -36:16:17.2\",\"track_duration\":416},{\"track_start_offset\":4342.702926635742,\"target\":\"J2124-3358, radec Pulsars, 21:24:43.85, -33:58:44.9\",\"track_duration\":256},{\"track_start_offset\":4640.877532482147,\"target\":\"J2241-5236, radec Pulsars, 22:41:42.02, -52:36:36.2\",\"track_duration\":256},{\"track_start_offset\":4901.329522609711,\"target\":\"J2236-5527, radec Pulsars, 22:36:51.85, -55:27:48.8\",\"track_duration\":2208},{\"track_start_offset\":7120.63321018219,\"target\":\"J2129-5721, radec Pulsars, 21:29:22.77, -57:21:14.2\",\"track_duration\":256},{\"track_start_offset\":7388.628857374191,\"target\":\"J1946-5403, radec Pulsars, 19:46:34.49, -54:03:42.5\",\"track_duration\":256},{\"track_start_offset\":7652.782509565353,\"target\":\"J1902-5105, radec Pulsars, 19:02:02.85, -51:05:57.0\",\"track_duration\":256},{\"track_start_offset\":7918.991748094559,\"target\":\"J1933-6211, radec Pulsars, 19:33:32.43, -62:11:46.9\",\"track_duration\":288},{\"track_start_offset\":8214.695997714996,\"target\":\"J1903-7051, radec Pulsars, 19:03:38.79, -70:51:43.5\",\"track_duration\":256},{\"track_start_offset\":8494.598057985306,\"target\":\"J1909-3744, radec Pulsars, 19:09:47.43, -37:44:14.5\",\"track_duration\":256},{\"track_start_offset\":8788.145559072495,\"target\":\"J2145-0750, radec Pulsars, 21:45:50.46, -7:50:18.5\",\"track_duration\":256},{\"track_start_offset\":9049.431822538376,\"target\":\"J2150-0326, radec Pulsars, 21:50:27.23, -3:26:32.8\",\"track_duration\":256},{\"track_start_offset\":9314.600843667984,\"target\":\"J2222-0137, radec Pulsars, 22:22:05.97, -1:37:15.7\",\"track_duration\":256},{\"track_start_offset\":9582.314974308014,\"target\":\"J2234+0944, radec Pulsars, 22:34:46.85, 9:44:30.2\",\"track_duration\":256},{\"track_start_offset\":9857.054733276367,\"target\":\"J2229+2643, radec Pulsars, 22:29:50.88, 26:43:57.6\",\"track_duration\":328},{\"track_start_offset\":10200.844779253006,\"target\":\"J2317+1439, radec Pulsars, 23:17:09.24, 14:39:31.3\",\"track_duration\":280},{\"track_start_offset\":10497.189519643784,\"target\":\"J0030+0451, radec Pulsars, 0:30:27.43, 4:51:39.7\",\"track_duration\":256},{\"track_start_offset\":10784.236661195755,\"target\":\"J0125-2327, radec Pulsars, 1:25:01.06, -23:27:08.2\",\"track_duration\":256},{\"track_start_offset\":11108.475854635239,\"target\":\"J2322-2650, radec Pulsars, 23:22:34.64, -26:50:58.3\",\"track_duration\":512}]", 
+        "type": "OBSERVATION", 
+        "verification_state": "VERIFIED", 
+        "zones_of_avoidance": null
+    }, 
+    "utc_start": "2021-02-02_12:37:20", 
+    "utc_stop": "2021-02-02_12:41:32", 
+    "version_info": {
+        "control": "v0.10.1"
+    }
+}
