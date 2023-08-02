@@ -10,7 +10,7 @@ A copy of this repository is available on [Zenodo](https://doi.org/10.5281/zenod
 
 ## Paper ##
 
-The corresponding paper (Jankowski et al. 2023, MNRAS) is available via this [NASA ADS link](https://ui.adsabs.harvard.edu/abs/2023arXiv230210107J/abstract).
+The corresponding paper (Jankowski et al. 2023, MNRAS) is available via this [NASA ADS link](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.4275J/abstract).
 
 ## Author ##
 
